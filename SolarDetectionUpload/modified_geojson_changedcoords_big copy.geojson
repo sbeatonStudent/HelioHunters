@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+    "type": "name",
+    "properties": {
+    "name": "urn:ogc:def:crs:EPSG::26910"
+    }
+    },
+    "features": [
+    {
+    "type": "Feature",
+    "properties": {
+    "polygon_id": 7036,
+    "centroid_latitude": 36.778020350851655,
+    "centroid_longitude": -119.77432949594534,
+    "centroid_latitude_pixels": 538.7524545,
+    "centroid_longitude_pixels": 1358.797462,
+    "city": "Fresno",
+    "area_pixels": 279.4693991,
+    "area_meters": 25.15224592,
+    "image_name": "full_fresno",
+    "nw_corner_of_image_latitude": 36.77936944,
+    "nw_corner_of_image_longitude": -119.7789444,
+    "se_corner_of_image_latitude": 36.76625278,
+    "se_corner_of_image_longitude": -119.7616694,
+    "datum": "NAD83",
+    "projection_zone": "11",
+    "resolution": 0.3,
+    "jaccard_index": 0.876803766,
+    "polygon_vertices_pixels": [
+    [1366.829268, 530],
+    [1350.243902, 530.487805],
+    [1350.567835, 541.177591],
+    [1350.487805, 546.219512],
+    [1350.720845, 546.22691],
+    [1350.731707, 546.585366],
+    [1366.829268, 548.048781],
+    [1366.829268, 530]
+    ]
+    },
+    "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+    [
+        [252408.3410369578, 4073841.119668821], [252403.36576829894, 4073840.9733672272], [252403.46274712635, 4073837.7659435337], [252403.43864823002, 4073836.253138187], [252403.50855522018, 4073836.2509175306], [252403.51180708467, 4073836.143364496], [252408.34071215338, 4073835.70421347], [252408.3410369578, 4073841.119668821]
+    ]
+    ]
+    }
+    }
+    ]
+    }
+    
+    

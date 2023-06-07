@@ -1,0 +1,9 @@
+{
+    "image_path": "data",
+    "json_path": "new_pixels_panels_big.geojson",
+    "dataset_path": "dataset",
+    "gers": false,
+    "image_size": 128,
+    "shuffle": true,
+    "test_split": 0.25
+}
